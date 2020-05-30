@@ -1,0 +1,61 @@
+{
+    "__class__": "Lista",
+    "Elementos": [
+        {
+            "__class__": "PersonalApoyo",
+            "__atributos__": {
+                "cat": 10,
+                "cuil": "2222222222",
+                "apellido": "vasquez",
+                "nom": "horacio",
+                "basico": 25000.0,
+                "antig": 3
+            }
+        },
+        {
+            "__class__": "DocenteInvetigador",
+            "__atributos__": {
+                "extra": 20000.0,
+                "catincent": "IV",
+                "carrera": "lcc",
+                "cargo": "simple",
+                "cat": "poo",
+                "area": "area 2",
+                "tipoinv": "tipo 1",
+                "cuil": "226665551",
+                "apellido": "garcia",
+                "nom": "raul",
+                "basico": 35000.0,
+                "antig": 8
+            }
+        },
+        {
+            "__class__": "DocenteInvetigador",
+            "__atributos__": {
+                "extra": 15000.0,
+                "catincent": "V",
+                "carrera": "lcc",
+                "cargo": "simple",
+                "cat": "poo",
+                "area": "area 1",
+                "tipoinv": "tipo 1",
+                "cuil": "22555566620",
+                "apellido": "perez",
+                "nom": "juan",
+                "basico": 30000.0,
+                "antig": 5
+            }
+        },
+        {
+            "__class__": "PersonalApoyo",
+            "__atributos__": {
+                "cat": 11,
+                "cuil": "225556669",
+                "apellido": "castro",
+                "nom": "carlos",
+                "basico": 25000.0,
+                "antig": 5
+            }
+        }
+    ]
+}
